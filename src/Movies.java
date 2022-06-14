@@ -1,11 +1,12 @@
-package PACKAGE_NAME;public class movies {
 
   import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
+package PACKAGE_NAME;
 
-public class Movies {
+public class movies {
+
 
     private ArrayList<String> movies;
 
